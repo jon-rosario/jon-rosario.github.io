@@ -12,13 +12,18 @@
 }
 
 #aboutMe {
-	background: darkgray;
-	color:white;
+	background:rgba(219, 193, 0, 0.091);
+	color:black;
+	text-decoration: none
 }
 
 .entryPhoto{
 	height: 100%;
 	width: 100%;
+}
+
+.aboutMeTitle{
+	color: black
 }
 
 
@@ -1934,7 +1939,7 @@ input, select, textarea {
 	}
 
 	.box.style2{
-		height: 1100px;
+		height: 1200px;
 	}
 
 		.box.style1 {
@@ -2385,7 +2390,7 @@ input, select, textarea {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
-					height: 900px;
+					height: 1000px;
 				}
 
 		/* Wrappers */
